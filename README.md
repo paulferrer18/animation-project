@@ -1,1 +1,1 @@
-# animation-project
+# first project in kodigo bootcamp
